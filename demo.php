@@ -1,4 +1,5 @@
 <?php
+echo "xxx";
 /**
  * Rsa 加密解密示例
  * author ：niklaslu <332553882@qq.com>
